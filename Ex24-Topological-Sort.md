@@ -76,8 +76,6 @@ return 0;
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/b1fbf067-474d-4dbe-98b8-c6a50abe69a8)
-## Result:
 
-Thus, the code to determine whether thetopologicalordering for the following graph is possible or not is implemented successfully.
 ## Result:
 Thus, the C program for determining whether the topological ordering for the following graph is possible or not, is implemented successfully.

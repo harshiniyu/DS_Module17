@@ -40,8 +40,7 @@ newNode->vertex=v; newNode->next=NULL; returnnewNode;
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/072d7d54-ee88-4db5-b2fb-a9265e202db0)
-## Result:
-Thus, the code for the function createNode to traverse the graph below in the depth first fashion is implemented successfully.
+
 
 ## Result:
 Thus, the C code for the function createNode to traverse the graph below in the depth first fashion is implemented successfully
